@@ -1,0 +1,14 @@
+{
+  "name": "properties-to-object",
+  "version": "1.0.0",
+  "description": "Parse property file structures into object structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sebastian Apel and Florian Hetrampf",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
