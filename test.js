@@ -5,7 +5,7 @@ describe("Basic Mocha String Test", function() {
   it("should return number of charachters in a string", function() {
     var config = parser({
       "some.property": "value",
-      other: "123"
+      "other": "123"
     });
 
     assert.ok(config);
