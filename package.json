@@ -6,7 +6,15 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Sebastian Apel and Florian Hetrampf",
+  "author": {
+    "name": "Sebastian Apel",
+    "email": "marloto@codestack.de"
+  },
+  "contributors": [
+    {
+      "name": "Florian Hertrampf"
+    }
+  ],
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.2.0"
