@@ -20,6 +20,12 @@
     "url": "git+https://github.com/winner-potential/properties-to-object.git"
   },
   "license": "MIT",
+  "keywords": [
+    "cloud",
+    "config",
+    "spring",
+    "properties"
+  ],
   "devDependencies": {
     "mocha": "^5.2.0"
   }
