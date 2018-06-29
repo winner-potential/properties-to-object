@@ -1,5 +1,7 @@
 # Parse Properties to Objects
 
+[![Build Status](https://travis-ci.com/winner-potential/properties-to-object.svg?branch=master)](https://travis-ci.com/winner-potential/properties-to-object)
+
 Simple parser to handle property file based key names and parse them into objects. The key name separations with points is transferred into an object structure.
 
 ```
