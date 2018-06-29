@@ -15,6 +15,10 @@
       "name": "Florian Hertrampf"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winner-potential/properties-to-object.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.2.0"
