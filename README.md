@@ -36,7 +36,7 @@ client.load({
     var result = {}
     config.forEach((k,v) => {
         result[k] = v
-    }
+    });
     // Use parser to create configuration object
     var configuration = parser(result)
 });
